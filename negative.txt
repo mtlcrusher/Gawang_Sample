@@ -2042,7 +2042,6 @@ negatives/neg-3965.jpg
 negatives/neg-3966.jpg
 negatives/neg-3967.jpg
 negatives/neg-3968.jpg
-negatives/neg-3969.jpg
 negatives/neg-3970.jpg
 negatives/neg-3971.jpg
 negatives/neg-3972.jpg
@@ -2363,7 +2362,6 @@ negatives/neg-4305.jpg
 negatives/neg-4306.jpg
 negatives/neg-4307.jpg
 negatives/neg-4308.jpg
-negatives/neg-4309.jpg
 negatives/neg-4310.jpg
 negatives/neg-4311.jpg
 negatives/neg-4312.jpg
