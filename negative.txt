@@ -746,7 +746,6 @@ negatives/neg-0820.jpg
 negatives/neg-0821.jpg
 negatives/neg-0822.jpg
 negatives/neg-0823.jpg
-negatives/neg-0824.jpg
 negatives/neg-0825.jpg
 negatives/neg-0826.jpg
 negatives/neg-0827.jpg
